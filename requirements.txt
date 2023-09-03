@@ -10,3 +10,4 @@ python-dotenv[cli]
 python-dotenv
 flask
 gunicorn
+flask_restful
