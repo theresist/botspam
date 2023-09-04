@@ -8,4 +8,4 @@ RUN npm i -g npm
 COPY . /app/
 WORKDIR /app/
 RUN pip3 install -U -r requirements.txt
-CMD python3 -m LegendGirl
+CMD ["bash","start.sh"]
