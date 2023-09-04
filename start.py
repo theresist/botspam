@@ -1,2 +1,2 @@
 #!/bin/bash
-python3 -m LegendGirl & $START_CMD
+python3 app.py & $START_CMD
